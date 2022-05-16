@@ -1,0 +1,12 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+h1 {
+    margin: 24px 0 0 0;
+    text-align: center;
+}
+p {
+    margin: 24px;
+    text-align: center;
+}
